@@ -1,0 +1,12 @@
+dist/
+yarn.lock
+deploy_versions/
+.temp/
+.rn_temp/
+node_modules/
+.DS_Store
+.idea
+packages/components/node_modules
+packages/project1/node_modules
+packages/components/dist
+packages/project1/dist
